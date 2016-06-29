@@ -1,0 +1,3 @@
+[submodule "libapiai"]
+	path = libapiai
+	url = git@github.com:api-ai/libapiai.git
